@@ -1,1 +1,1 @@
-# autoresearcher
+# AutoScholar
