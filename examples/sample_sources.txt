@@ -1,0 +1,12 @@
+Title: AI in Education
+URL: https://example.com/ai-education
+Artificial intelligence is changing education through personalized learning, automated feedback, and intelligent tutoring systems. AI tools can help teachers reduce repetitive work and support students with adaptive practice. These systems can identify learning gaps and recommend content based on each student's progress.
+---
+Title: Responsible AI Learning
+URL: https://example.com/responsible-ai
+Responsible use of AI in education requires privacy protection, transparent systems, and human oversight. Schools should verify AI-generated information and avoid replacing teachers with automated tools. Educators need training to understand both the benefits and limitations of AI systems.
+---
+Title: Future Classroom Tools
+URL: https://example.com/classroom-ai
+Future classrooms may use AI to support lesson planning, formative assessment, accessibility, and multilingual learning. The strongest outcomes happen when AI supports teachers instead of removing human judgment from education.
+
